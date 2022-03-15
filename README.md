@@ -5,7 +5,7 @@
 [<img  width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" aling="left"/>
 ][Linkedin]
 [<img  width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/gmail.svg"  aling="left"/>
-][Linkedin]
+][E-Mail]
 <br><br>
 <br>
 
