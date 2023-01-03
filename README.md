@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://resulbisgin.github.io/](https://resulbisgin.github.io/)
+- 👨‍💻 All of my projects are available at [https://resulbisgin.github.io/new-pages/](https://resulbisgin.github.io/new-pages/)
 
 - 💬 Ask me about **Linux,Web**
 
