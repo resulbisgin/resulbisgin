@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=resulbisgin&label=Profile%20views&color=0e75b6&style=flat" alt="resulbisgin" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://resulbisgin.github.io/new-pages/](https://resulbisgin.github.io/new-pages/)
 
